@@ -53,8 +53,3 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-## 📌 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/student-depression-predictor.git
